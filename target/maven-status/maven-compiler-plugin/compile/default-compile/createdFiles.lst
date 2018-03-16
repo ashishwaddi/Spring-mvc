@@ -1,0 +1,6 @@
+com\bellinfo\spring\mvc\repository\StudentRepository.class
+com\bellinfo\spring\mvc\service\StudentService.class
+com\bellinfo\spring\mvc\controller\StudentController.class
+com\bellinfo\spring\mvc\model\Student.class
+com\bellinfo\spring\mvc\service\StudentServiceImpl.class
+com\bellinfo\spring\mvc\controller\LandingPageController.class
